@@ -35,14 +35,3 @@ Depodaki kod MIT lisanslıdır; veri üzerindeki haklar Diyanet'e aittir.
 **Asıl üretim GitHub Actions'tır** (`.github/workflows/fetch.yml`): her pazartesi 03:00 UTC GitHub'ın kendi runner'ı
 869 ilçeyi çeker ve JSON'u depoya commit eder; uygulama `raw.githubusercontent.com` üzerinden okur. Sunucuya yük binmez.
 Depo herkese açık olmalıdır (anahtarsız okuma).
-
-## Yedek: sunucu worker (Dokploy, kullanılmıyor)
-
-`Dockerfile` tek konteyner kurar: nginx `/data`'yı statik servis eder, arka planda `deploy/entrypoint.sh`
-her saat kontrol edip `fetch_report.json` 7 günden eskiyse (ya da yoksa) tüm ilçeleri yeniden çeker
-(869 istek, saniyede bir; ~15 dk). Konteyner yeniden başlarsa veri ilk çekime kadar boştur; uygulama bu
-sürede önbelleğini ve aladhan yedeğini kullanır.
-
-Uç noktalar: `/vakitler/<ilceId>.json`, `/iller.json`, `/fetch_report.json`, `/healthz`.
-Yalnız GitHub Actions bir gün yetmezse: Dokploy manifesti `~/Desktop/Repo/.dokploy/apps/zikrflow-vakitler.json`,
-adres `https://vakitler.tunahanyollar.net`.

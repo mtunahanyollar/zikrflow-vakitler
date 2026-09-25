@@ -30,7 +30,13 @@ Namaz vakti verisi **Diyanet İşleri Başkanlığı** kaynaklıdır. Koordinatl
 OpenStreetMap katkıcılarından gelir; OSM koordinatları ODbL koşullarına tabidir.
 Depodaki kod MIT lisanslıdır; veri üzerindeki haklar Diyanet'e aittir.
 
-## Sunucu worker (Dokploy)
+## Çalışma modeli
+
+**Asıl üretim GitHub Actions'tır** (`.github/workflows/fetch.yml`): her pazartesi 03:00 UTC GitHub'ın kendi runner'ı
+869 ilçeyi çeker ve JSON'u depoya commit eder; uygulama `raw.githubusercontent.com` üzerinden okur. Sunucuya yük binmez.
+Depo herkese açık olmalıdır (anahtarsız okuma).
+
+## Yedek: sunucu worker (Dokploy, kullanılmıyor)
 
 `Dockerfile` tek konteyner kurar: nginx `/data`'yı statik servis eder, arka planda `deploy/entrypoint.sh`
 her saat kontrol edip `fetch_report.json` 7 günden eskiyse (ya da yoksa) tüm ilçeleri yeniden çeker
@@ -38,5 +44,5 @@ her saat kontrol edip `fetch_report.json` 7 günden eskiyse (ya da yoksa) tüm i
 sürede önbelleğini ve aladhan yedeğini kullanır.
 
 Uç noktalar: `/vakitler/<ilceId>.json`, `/iller.json`, `/fetch_report.json`, `/healthz`.
-Prod: `https://vakitler.tunahanyollar.net`. GitHub Action (`.github/workflows/fetch.yml`) artık yalnız
-yedek/manuel kullanım içindir; asıl üretim sunucudaki worker'dır.
+Yalnız GitHub Actions bir gün yetmezse: Dokploy manifesti `~/Desktop/Repo/.dokploy/apps/zikrflow-vakitler.json`,
+adres `https://vakitler.tunahanyollar.net`.

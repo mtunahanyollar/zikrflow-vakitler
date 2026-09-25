@@ -29,3 +29,14 @@ tamamlanır.
 Namaz vakti verisi **Diyanet İşleri Başkanlığı** kaynaklıdır. Koordinatlar Wikidata ve
 OpenStreetMap katkıcılarından gelir; OSM koordinatları ODbL koşullarına tabidir.
 Depodaki kod MIT lisanslıdır; veri üzerindeki haklar Diyanet'e aittir.
+
+## Sunucu worker (Dokploy)
+
+`Dockerfile` tek konteyner kurar: nginx `/data`'yı statik servis eder, arka planda `deploy/entrypoint.sh`
+her saat kontrol edip `fetch_report.json` 7 günden eskiyse (ya da yoksa) tüm ilçeleri yeniden çeker
+(869 istek, saniyede bir; ~15 dk). Konteyner yeniden başlarsa veri ilk çekime kadar boştur; uygulama bu
+sürede önbelleğini ve aladhan yedeğini kullanır.
+
+Uç noktalar: `/vakitler/<ilceId>.json`, `/iller.json`, `/fetch_report.json`, `/healthz`.
+Prod: `https://vakitler.tunahanyollar.net`. GitHub Action (`.github/workflows/fetch.yml`) artık yalnız
+yedek/manuel kullanım içindir; asıl üretim sunucudaki worker'dır.

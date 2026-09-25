@@ -109,13 +109,15 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--only", help="Comma-separated district IDs")
     parser.add_argument("--limit", type=int, help="Maximum selected districts")
+    parser.add_argument("--out", help="Output directory (default: repo root); JSON goes to <out>/vakitler, report to <out>/fetch_report.json")
     args = parser.parse_args()
     selected = set(args.only.split(",")) if args.only else None
     targets = [item for item in districts() if selected is None or item[2] in selected]
     if args.limit is not None:
         targets = targets[:args.limit]
-    output_dir = ROOT / "vakitler"
-    output_dir.mkdir(exist_ok=True)
+    base_dir = Path(args.out).resolve() if args.out else ROOT
+    output_dir = base_dir / "vakitler"
+    output_dir.mkdir(parents=True, exist_ok=True)
     started = time.monotonic()
     successful, failed, fallback = [], [], []
     for index, (city, district, district_id) in enumerate(targets):
@@ -142,7 +144,7 @@ def main() -> int:
             failed.append({"id": district_id, "error": str(error)})
             print(f"HATA {district_id}: {error}")
     report = {"fetchedAt": date.today().isoformat(), "durationSeconds": round(time.monotonic() - started, 2), "successful": successful, "failed": failed, "monthlyFallback": fallback}
-    (ROOT / "fetch_report.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    (base_dir / "fetch_report.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return 1 if failed else 0
 
 

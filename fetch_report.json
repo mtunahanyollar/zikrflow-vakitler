@@ -1,0 +1,27 @@
+{
+  "fetchedAt": "2026-09-25",
+  "durationSeconds": 4.15,
+  "successful": [
+    {
+      "id": "9206",
+      "source": "tab-1",
+      "days": 31
+    },
+    {
+      "id": "9221",
+      "source": "tab-1",
+      "days": 31
+    },
+    {
+      "id": "9541",
+      "source": "tab-1",
+      "days": 31
+    }
+  ],
+  "failed": [],
+  "monthlyFallback": [
+    "9206",
+    "9221",
+    "9541"
+  ]
+}

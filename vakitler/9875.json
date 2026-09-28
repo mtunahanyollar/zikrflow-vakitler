@@ -1,39 +1,9 @@
 {
   "ilceId": "9875",
   "il": "Tekirdağ",
-  "ilce": "M.ereğlisi",
-  "fetchedAt": "2026-09-25",
+  "ilce": "Marmaraereğlisi",
+  "fetchedAt": "2026-09-28",
   "gunler": [
-    {
-      "t": "2026-09-25",
-      "h": "14 Rebiulahir 1448",
-      "imsak": "05:26",
-      "gunes": "06:51",
-      "ogle": "13:05",
-      "ikindi": "16:28",
-      "aksam": "19:09",
-      "yatsi": "20:28"
-    },
-    {
-      "t": "2026-09-26",
-      "h": "15 Rebiulahir 1448",
-      "imsak": "05:27",
-      "gunes": "06:52",
-      "ogle": "13:05",
-      "ikindi": "16:27",
-      "aksam": "19:07",
-      "yatsi": "20:26"
-    },
-    {
-      "t": "2026-09-27",
-      "h": "16 Rebiulahir 1448",
-      "imsak": "05:29",
-      "gunes": "06:53",
-      "ogle": "13:04",
-      "ikindi": "16:25",
-      "aksam": "19:05",
-      "yatsi": "20:25"
-    },
     {
       "t": "2026-09-28",
       "h": "17 Rebiulahir 1448",
@@ -313,6 +283,36 @@
       "ikindi": "15:52",
       "aksam": "18:21",
       "yatsi": "19:41"
+    },
+    {
+      "t": "2026-10-26",
+      "h": "15 Cemaziyelevvel 1448",
+      "imsak": "05:59",
+      "gunes": "07:25",
+      "ogle": "12:57",
+      "ikindi": "15:51",
+      "aksam": "18:20",
+      "yatsi": "19:40"
+    },
+    {
+      "t": "2026-10-27",
+      "h": "16 Cemaziyelevvel 1448",
+      "imsak": "06:00",
+      "gunes": "07:26",
+      "ogle": "12:57",
+      "ikindi": "15:50",
+      "aksam": "18:19",
+      "yatsi": "19:39"
+    },
+    {
+      "t": "2026-10-28",
+      "h": "17 Cemaziyelevvel 1448",
+      "imsak": "06:01",
+      "gunes": "07:27",
+      "ogle": "12:57",
+      "ikindi": "15:49",
+      "aksam": "18:17",
+      "yatsi": "19:37"
     }
   ]
 }

@@ -2,38 +2,8 @@
   "ilceId": "9573",
   "il": "Kahramanmaraş",
   "ilce": "Çağlayancerit",
-  "fetchedAt": "2026-09-25",
+  "fetchedAt": "2026-09-28",
   "gunler": [
-    {
-      "t": "2026-09-25",
-      "h": "14 Rebiulahir 1448",
-      "imsak": "04:53",
-      "gunes": "06:14",
-      "ogle": "12:28",
-      "ikindi": "15:52",
-      "aksam": "18:32",
-      "yatsi": "19:47"
-    },
-    {
-      "t": "2026-09-26",
-      "h": "15 Rebiulahir 1448",
-      "imsak": "04:54",
-      "gunes": "06:15",
-      "ogle": "12:27",
-      "ikindi": "15:51",
-      "aksam": "18:30",
-      "yatsi": "19:45"
-    },
-    {
-      "t": "2026-09-27",
-      "h": "16 Rebiulahir 1448",
-      "imsak": "04:55",
-      "gunes": "06:16",
-      "ogle": "12:27",
-      "ikindi": "15:50",
-      "aksam": "18:28",
-      "yatsi": "19:44"
-    },
     {
       "t": "2026-09-28",
       "h": "17 Rebiulahir 1448",
@@ -313,6 +283,36 @@
       "ikindi": "15:20",
       "aksam": "17:48",
       "yatsi": "19:04"
+    },
+    {
+      "t": "2026-10-26",
+      "h": "15 Cemaziyelevvel 1448",
+      "imsak": "05:22",
+      "gunes": "06:43",
+      "ogle": "12:20",
+      "ikindi": "15:19",
+      "aksam": "17:47",
+      "yatsi": "19:03"
+    },
+    {
+      "t": "2026-10-27",
+      "h": "16 Cemaziyelevvel 1448",
+      "imsak": "05:23",
+      "gunes": "06:44",
+      "ogle": "12:20",
+      "ikindi": "15:18",
+      "aksam": "17:46",
+      "yatsi": "19:02"
+    },
+    {
+      "t": "2026-10-28",
+      "h": "17 Cemaziyelevvel 1448",
+      "imsak": "05:23",
+      "gunes": "06:45",
+      "ogle": "12:20",
+      "ikindi": "15:17",
+      "aksam": "17:45",
+      "yatsi": "19:01"
     }
   ]
 }

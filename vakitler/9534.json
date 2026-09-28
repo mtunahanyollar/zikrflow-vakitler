@@ -1,39 +1,9 @@
 {
   "ilceId": "9534",
   "il": "Isparta",
-  "ilce": "Yenisar Bademli",
-  "fetchedAt": "2026-09-25",
+  "ilce": "Yenişarbademli",
+  "fetchedAt": "2026-09-28",
   "gunler": [
-    {
-      "t": "2026-09-25",
-      "h": "14 Rebiulahir 1448",
-      "imsak": "05:17",
-      "gunes": "06:38",
-      "ogle": "12:51",
-      "ikindi": "16:15",
-      "aksam": "18:55",
-      "yatsi": "20:11"
-    },
-    {
-      "t": "2026-09-26",
-      "h": "15 Rebiulahir 1448",
-      "imsak": "05:18",
-      "gunes": "06:38",
-      "ogle": "12:51",
-      "ikindi": "16:14",
-      "aksam": "18:54",
-      "yatsi": "20:09"
-    },
-    {
-      "t": "2026-09-27",
-      "h": "16 Rebiulahir 1448",
-      "imsak": "05:19",
-      "gunes": "06:39",
-      "ogle": "12:51",
-      "ikindi": "16:13",
-      "aksam": "18:52",
-      "yatsi": "20:07"
-    },
     {
       "t": "2026-09-28",
       "h": "17 Rebiulahir 1448",
@@ -313,6 +283,36 @@
       "ikindi": "15:44",
       "aksam": "18:12",
       "yatsi": "19:28"
+    },
+    {
+      "t": "2026-10-26",
+      "h": "15 Cemaziyelevvel 1448",
+      "imsak": "05:45",
+      "gunes": "07:06",
+      "ogle": "12:44",
+      "ikindi": "15:43",
+      "aksam": "18:11",
+      "yatsi": "19:27"
+    },
+    {
+      "t": "2026-10-27",
+      "h": "16 Cemaziyelevvel 1448",
+      "imsak": "05:46",
+      "gunes": "07:07",
+      "ogle": "12:43",
+      "ikindi": "15:42",
+      "aksam": "18:10",
+      "yatsi": "19:26"
+    },
+    {
+      "t": "2026-10-28",
+      "h": "17 Cemaziyelevvel 1448",
+      "imsak": "05:47",
+      "gunes": "07:08",
+      "ogle": "12:43",
+      "ikindi": "15:41",
+      "aksam": "18:08",
+      "yatsi": "19:25"
     }
   ]
 }

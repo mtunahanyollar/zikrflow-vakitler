@@ -2,38 +2,8 @@
   "ilceId": "9347",
   "il": "Çanakkale",
   "ilce": "Ayvacık",
-  "fetchedAt": "2026-09-25",
+  "fetchedAt": "2026-09-28",
   "gunler": [
-    {
-      "t": "2026-09-25",
-      "h": "14 Rebiulahir 1448",
-      "imsak": "05:35",
-      "gunes": "06:58",
-      "ogle": "13:11",
-      "ikindi": "16:35",
-      "aksam": "19:15",
-      "yatsi": "20:33"
-    },
-    {
-      "t": "2026-09-26",
-      "h": "15 Rebiulahir 1448",
-      "imsak": "05:36",
-      "gunes": "06:58",
-      "ogle": "13:11",
-      "ikindi": "16:33",
-      "aksam": "19:13",
-      "yatsi": "20:31"
-    },
-    {
-      "t": "2026-09-27",
-      "h": "16 Rebiulahir 1448",
-      "imsak": "05:37",
-      "gunes": "06:59",
-      "ogle": "13:11",
-      "ikindi": "16:32",
-      "aksam": "19:12",
-      "yatsi": "20:29"
-    },
     {
       "t": "2026-09-28",
       "h": "17 Rebiulahir 1448",
@@ -313,6 +283,36 @@
       "ikindi": "16:01",
       "aksam": "18:29",
       "yatsi": "19:47"
+    },
+    {
+      "t": "2026-10-26",
+      "h": "15 Cemaziyelevvel 1448",
+      "imsak": "06:05",
+      "gunes": "07:29",
+      "ogle": "13:03",
+      "ikindi": "16:00",
+      "aksam": "18:28",
+      "yatsi": "19:46"
+    },
+    {
+      "t": "2026-10-27",
+      "h": "16 Cemaziyelevvel 1448",
+      "imsak": "06:06",
+      "gunes": "07:30",
+      "ogle": "13:03",
+      "ikindi": "15:59",
+      "aksam": "18:27",
+      "yatsi": "19:45"
+    },
+    {
+      "t": "2026-10-28",
+      "h": "17 Cemaziyelevvel 1448",
+      "imsak": "06:07",
+      "gunes": "07:31",
+      "ogle": "13:03",
+      "ikindi": "15:58",
+      "aksam": "18:26",
+      "yatsi": "19:44"
     }
   ]
 }

@@ -2,38 +2,8 @@
   "ilceId": "9492",
   "il": "Giresun",
   "ilce": "Espiye",
-  "fetchedAt": "2026-09-25",
+  "fetchedAt": "2026-09-28",
   "gunler": [
-    {
-      "t": "2026-09-25",
-      "h": "14 Rebiulahir 1448",
-      "imsak": "04:43",
-      "gunes": "06:08",
-      "ogle": "12:22",
-      "ikindi": "15:45",
-      "aksam": "18:26",
-      "yatsi": "19:45"
-    },
-    {
-      "t": "2026-09-26",
-      "h": "15 Rebiulahir 1448",
-      "imsak": "04:44",
-      "gunes": "06:09",
-      "ogle": "12:22",
-      "ikindi": "15:44",
-      "aksam": "18:24",
-      "yatsi": "19:43"
-    },
-    {
-      "t": "2026-09-27",
-      "h": "16 Rebiulahir 1448",
-      "imsak": "04:46",
-      "gunes": "06:10",
-      "ogle": "12:21",
-      "ikindi": "15:42",
-      "aksam": "18:22",
-      "yatsi": "19:42"
-    },
     {
       "t": "2026-09-28",
       "h": "17 Rebiulahir 1448",
@@ -313,6 +283,36 @@
       "ikindi": "15:09",
       "aksam": "17:38",
       "yatsi": "18:58"
+    },
+    {
+      "t": "2026-10-26",
+      "h": "15 Cemaziyelevvel 1448",
+      "imsak": "05:16",
+      "gunes": "06:42",
+      "ogle": "12:14",
+      "ikindi": "15:08",
+      "aksam": "17:37",
+      "yatsi": "18:57"
+    },
+    {
+      "t": "2026-10-27",
+      "h": "16 Cemaziyelevvel 1448",
+      "imsak": "05:17",
+      "gunes": "06:43",
+      "ogle": "12:14",
+      "ikindi": "15:07",
+      "aksam": "17:36",
+      "yatsi": "18:56"
+    },
+    {
+      "t": "2026-10-28",
+      "h": "17 Cemaziyelevvel 1448",
+      "imsak": "05:18",
+      "gunes": "06:44",
+      "ogle": "12:14",
+      "ikindi": "15:06",
+      "aksam": "17:34",
+      "yatsi": "18:54"
     }
   ]
 }

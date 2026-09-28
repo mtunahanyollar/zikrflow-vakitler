@@ -1,39 +1,9 @@
 {
   "ilceId": "9640",
   "il": "Kırklareli",
-  "ilce": "Pehlıvankoy",
-  "fetchedAt": "2026-09-25",
+  "ilce": "Pehlivanköy",
+  "fetchedAt": "2026-09-28",
   "gunler": [
-    {
-      "t": "2026-09-25",
-      "h": "14 Rebiulahir 1448",
-      "imsak": "05:30",
-      "gunes": "06:55",
-      "ogle": "13:09",
-      "ikindi": "16:32",
-      "aksam": "19:13",
-      "yatsi": "20:33"
-    },
-    {
-      "t": "2026-09-26",
-      "h": "15 Rebiulahir 1448",
-      "imsak": "05:31",
-      "gunes": "06:57",
-      "ogle": "13:09",
-      "ikindi": "16:30",
-      "aksam": "19:11",
-      "yatsi": "20:31"
-    },
-    {
-      "t": "2026-09-27",
-      "h": "16 Rebiulahir 1448",
-      "imsak": "05:32",
-      "gunes": "06:58",
-      "ogle": "13:08",
-      "ikindi": "16:29",
-      "aksam": "19:09",
-      "yatsi": "20:29"
-    },
     {
       "t": "2026-09-28",
       "h": "17 Rebiulahir 1448",
@@ -313,6 +283,36 @@
       "ikindi": "15:56",
       "aksam": "18:25",
       "yatsi": "19:45"
+    },
+    {
+      "t": "2026-10-26",
+      "h": "15 Cemaziyelevvel 1448",
+      "imsak": "06:04",
+      "gunes": "07:29",
+      "ogle": "13:01",
+      "ikindi": "15:55",
+      "aksam": "18:23",
+      "yatsi": "19:44"
+    },
+    {
+      "t": "2026-10-27",
+      "h": "16 Cemaziyelevvel 1448",
+      "imsak": "06:05",
+      "gunes": "07:30",
+      "ogle": "13:01",
+      "ikindi": "15:54",
+      "aksam": "18:22",
+      "yatsi": "19:43"
+    },
+    {
+      "t": "2026-10-28",
+      "h": "17 Cemaziyelevvel 1448",
+      "imsak": "06:06",
+      "gunes": "07:32",
+      "ogle": "13:01",
+      "ikindi": "15:52",
+      "aksam": "18:21",
+      "yatsi": "19:41"
     }
   ]
 }

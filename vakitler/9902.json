@@ -2,38 +2,8 @@
   "ilceId": "9902",
   "il": "Trabzon",
   "ilce": "Şalpazarı",
-  "fetchedAt": "2026-09-25",
+  "fetchedAt": "2026-09-28",
   "gunler": [
-    {
-      "t": "2026-09-25",
-      "h": "14 Rebiulahir 1448",
-      "imsak": "04:41",
-      "gunes": "06:06",
-      "ogle": "12:20",
-      "ikindi": "15:43",
-      "aksam": "18:24",
-      "yatsi": "19:43"
-    },
-    {
-      "t": "2026-09-26",
-      "h": "15 Rebiulahir 1448",
-      "imsak": "04:43",
-      "gunes": "06:07",
-      "ogle": "12:20",
-      "ikindi": "15:42",
-      "aksam": "18:22",
-      "yatsi": "19:41"
-    },
-    {
-      "t": "2026-09-27",
-      "h": "16 Rebiulahir 1448",
-      "imsak": "04:44",
-      "gunes": "06:08",
-      "ogle": "12:19",
-      "ikindi": "15:40",
-      "aksam": "18:20",
-      "yatsi": "19:40"
-    },
     {
       "t": "2026-09-28",
       "h": "17 Rebiulahir 1448",
@@ -313,6 +283,36 @@
       "ikindi": "15:07",
       "aksam": "17:36",
       "yatsi": "18:56"
+    },
+    {
+      "t": "2026-10-26",
+      "h": "15 Cemaziyelevvel 1448",
+      "imsak": "05:14",
+      "gunes": "06:40",
+      "ogle": "12:12",
+      "ikindi": "15:06",
+      "aksam": "17:35",
+      "yatsi": "18:55"
+    },
+    {
+      "t": "2026-10-27",
+      "h": "16 Cemaziyelevvel 1448",
+      "imsak": "05:15",
+      "gunes": "06:41",
+      "ogle": "12:12",
+      "ikindi": "15:05",
+      "aksam": "17:34",
+      "yatsi": "18:54"
+    },
+    {
+      "t": "2026-10-28",
+      "h": "17 Cemaziyelevvel 1448",
+      "imsak": "05:17",
+      "gunes": "06:42",
+      "ogle": "12:12",
+      "ikindi": "15:04",
+      "aksam": "17:32",
+      "yatsi": "18:52"
     }
   ]
 }

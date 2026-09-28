@@ -2,38 +2,8 @@
   "ilceId": "9879",
   "il": "Tekirdağ",
   "ilce": "Tekirdağ",
-  "fetchedAt": "2026-09-25",
+  "fetchedAt": "2026-09-28",
   "gunler": [
-    {
-      "t": "2026-09-25",
-      "h": "14 Rebiulahir 1448",
-      "imsak": "05:28",
-      "gunes": "06:53",
-      "ogle": "13:07",
-      "ikindi": "16:29",
-      "aksam": "19:11",
-      "yatsi": "20:30"
-    },
-    {
-      "t": "2026-09-26",
-      "h": "15 Rebiulahir 1448",
-      "imsak": "05:29",
-      "gunes": "06:54",
-      "ogle": "13:06",
-      "ikindi": "16:28",
-      "aksam": "19:09",
-      "yatsi": "20:28"
-    },
-    {
-      "t": "2026-09-27",
-      "h": "16 Rebiulahir 1448",
-      "imsak": "05:30",
-      "gunes": "06:55",
-      "ogle": "13:06",
-      "ikindi": "16:27",
-      "aksam": "19:07",
-      "yatsi": "20:26"
-    },
     {
       "t": "2026-09-28",
       "h": "17 Rebiulahir 1448",
@@ -313,6 +283,36 @@
       "ikindi": "15:54",
       "aksam": "18:23",
       "yatsi": "19:43"
+    },
+    {
+      "t": "2026-10-26",
+      "h": "15 Cemaziyelevvel 1448",
+      "imsak": "06:01",
+      "gunes": "07:26",
+      "ogle": "12:59",
+      "ikindi": "15:53",
+      "aksam": "18:22",
+      "yatsi": "19:42"
+    },
+    {
+      "t": "2026-10-27",
+      "h": "16 Cemaziyelevvel 1448",
+      "imsak": "06:02",
+      "gunes": "07:27",
+      "ogle": "12:59",
+      "ikindi": "15:52",
+      "aksam": "18:20",
+      "yatsi": "19:40"
+    },
+    {
+      "t": "2026-10-28",
+      "h": "17 Cemaziyelevvel 1448",
+      "imsak": "06:03",
+      "gunes": "07:29",
+      "ogle": "12:59",
+      "ikindi": "15:51",
+      "aksam": "18:19",
+      "yatsi": "19:39"
     }
   ]
 }

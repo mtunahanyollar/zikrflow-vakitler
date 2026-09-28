@@ -1,39 +1,9 @@
 {
   "ilceId": "9929",
   "il": "Van",
-  "ilce": "Saray (v)",
-  "fetchedAt": "2026-09-25",
+  "ilce": "Saray",
+  "fetchedAt": "2026-09-28",
   "gunler": [
-    {
-      "t": "2026-09-25",
-      "h": "14 Rebiulahir 1448",
-      "imsak": "04:25",
-      "gunes": "05:46",
-      "ogle": "12:00",
-      "ikindi": "15:24",
-      "aksam": "18:04",
-      "yatsi": "19:20"
-    },
-    {
-      "t": "2026-09-26",
-      "h": "15 Rebiulahir 1448",
-      "imsak": "04:26",
-      "gunes": "05:47",
-      "ogle": "12:00",
-      "ikindi": "15:23",
-      "aksam": "18:02",
-      "yatsi": "19:19"
-    },
-    {
-      "t": "2026-09-27",
-      "h": "16 Rebiulahir 1448",
-      "imsak": "04:27",
-      "gunes": "05:48",
-      "ogle": "12:00",
-      "ikindi": "15:22",
-      "aksam": "18:01",
-      "yatsi": "19:17"
-    },
     {
       "t": "2026-09-28",
       "h": "17 Rebiulahir 1448",
@@ -313,6 +283,36 @@
       "ikindi": "14:51",
       "aksam": "17:20",
       "yatsi": "18:37"
+    },
+    {
+      "t": "2026-10-26",
+      "h": "15 Cemaziyelevvel 1448",
+      "imsak": "04:54",
+      "gunes": "06:16",
+      "ogle": "11:52",
+      "ikindi": "14:50",
+      "aksam": "17:18",
+      "yatsi": "18:35"
+    },
+    {
+      "t": "2026-10-27",
+      "h": "16 Cemaziyelevvel 1448",
+      "imsak": "04:55",
+      "gunes": "06:17",
+      "ogle": "11:52",
+      "ikindi": "14:49",
+      "aksam": "17:17",
+      "yatsi": "18:34"
+    },
+    {
+      "t": "2026-10-28",
+      "h": "17 Cemaziyelevvel 1448",
+      "imsak": "04:56",
+      "gunes": "06:18",
+      "ogle": "11:52",
+      "ikindi": "14:48",
+      "aksam": "17:16",
+      "yatsi": "18:33"
     }
   ]
 }

@@ -2,38 +2,8 @@
   "ilceId": "9671",
   "il": "Konya",
   "ilce": "Halkapınar",
-  "fetchedAt": "2026-09-25",
+  "fetchedAt": "2026-09-28",
   "gunler": [
-    {
-      "t": "2026-09-25",
-      "h": "14 Rebiulahir 1448",
-      "imsak": "05:06",
-      "gunes": "06:26",
-      "ogle": "12:40",
-      "ikindi": "16:04",
-      "aksam": "18:44",
-      "yatsi": "19:59"
-    },
-    {
-      "t": "2026-09-26",
-      "h": "15 Rebiulahir 1448",
-      "imsak": "05:07",
-      "gunes": "06:27",
-      "ogle": "12:40",
-      "ikindi": "16:03",
-      "aksam": "18:42",
-      "yatsi": "19:57"
-    },
-    {
-      "t": "2026-09-27",
-      "h": "16 Rebiulahir 1448",
-      "imsak": "05:08",
-      "gunes": "06:28",
-      "ogle": "12:39",
-      "ikindi": "16:02",
-      "aksam": "18:41",
-      "yatsi": "19:56"
-    },
     {
       "t": "2026-09-28",
       "h": "17 Rebiulahir 1448",
@@ -313,6 +283,36 @@
       "ikindi": "15:33",
       "aksam": "18:01",
       "yatsi": "19:17"
+    },
+    {
+      "t": "2026-10-26",
+      "h": "15 Cemaziyelevvel 1448",
+      "imsak": "05:34",
+      "gunes": "06:55",
+      "ogle": "12:32",
+      "ikindi": "15:32",
+      "aksam": "18:00",
+      "yatsi": "19:16"
+    },
+    {
+      "t": "2026-10-27",
+      "h": "16 Cemaziyelevvel 1448",
+      "imsak": "05:35",
+      "gunes": "06:56",
+      "ogle": "12:32",
+      "ikindi": "15:31",
+      "aksam": "17:59",
+      "yatsi": "19:14"
+    },
+    {
+      "t": "2026-10-28",
+      "h": "17 Cemaziyelevvel 1448",
+      "imsak": "05:36",
+      "gunes": "06:57",
+      "ogle": "12:32",
+      "ikindi": "15:30",
+      "aksam": "17:58",
+      "yatsi": "19:13"
     }
   ]
 }

@@ -1,39 +1,9 @@
 {
   "ilceId": "9583",
   "il": "Karabük",
-  "ilce": "Yenice (k)",
-  "fetchedAt": "2026-09-25",
+  "ilce": "Yenice",
+  "fetchedAt": "2026-09-28",
   "gunler": [
-    {
-      "t": "2026-09-25",
-      "h": "14 Rebiulahir 1448",
-      "imsak": "05:09",
-      "gunes": "06:34",
-      "ogle": "12:48",
-      "ikindi": "16:10",
-      "aksam": "18:51",
-      "yatsi": "20:11"
-    },
-    {
-      "t": "2026-09-26",
-      "h": "15 Rebiulahir 1448",
-      "imsak": "05:10",
-      "gunes": "06:35",
-      "ogle": "12:47",
-      "ikindi": "16:09",
-      "aksam": "18:50",
-      "yatsi": "20:09"
-    },
-    {
-      "t": "2026-09-27",
-      "h": "16 Rebiulahir 1448",
-      "imsak": "05:11",
-      "gunes": "06:36",
-      "ogle": "12:47",
-      "ikindi": "16:08",
-      "aksam": "18:48",
-      "yatsi": "20:08"
-    },
     {
       "t": "2026-09-28",
       "h": "17 Rebiulahir 1448",
@@ -313,6 +283,36 @@
       "ikindi": "15:34",
       "aksam": "18:03",
       "yatsi": "19:24"
+    },
+    {
+      "t": "2026-10-26",
+      "h": "15 Cemaziyelevvel 1448",
+      "imsak": "05:42",
+      "gunes": "07:07",
+      "ogle": "12:40",
+      "ikindi": "15:33",
+      "aksam": "18:02",
+      "yatsi": "19:22"
+    },
+    {
+      "t": "2026-10-27",
+      "h": "16 Cemaziyelevvel 1448",
+      "imsak": "05:43",
+      "gunes": "07:09",
+      "ogle": "12:40",
+      "ikindi": "15:32",
+      "aksam": "18:01",
+      "yatsi": "19:21"
+    },
+    {
+      "t": "2026-10-28",
+      "h": "17 Cemaziyelevvel 1448",
+      "imsak": "05:44",
+      "gunes": "07:10",
+      "ogle": "12:40",
+      "ikindi": "15:31",
+      "aksam": "17:59",
+      "yatsi": "19:20"
     }
   ]
 }

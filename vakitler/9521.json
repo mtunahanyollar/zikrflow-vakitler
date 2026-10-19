@@ -2,78 +2,8 @@
   "ilceId": "9521",
   "il": "Iğdır",
   "ilce": "Aralık",
-  "fetchedAt": "2026-10-12",
+  "fetchedAt": "2026-10-19",
   "gunler": [
-    {
-      "t": "2026-10-12",
-      "h": "1 Cemaziyelevvel 1448",
-      "imsak": "04:39",
-      "gunes": "06:02",
-      "ogle": "11:54",
-      "ikindi": "15:02",
-      "aksam": "17:35",
-      "yatsi": "18:53"
-    },
-    {
-      "t": "2026-10-13",
-      "h": "2 Cemaziyelevvel 1448",
-      "imsak": "04:40",
-      "gunes": "06:03",
-      "ogle": "11:53",
-      "ikindi": "15:01",
-      "aksam": "17:34",
-      "yatsi": "18:51"
-    },
-    {
-      "t": "2026-10-14",
-      "h": "3 Cemaziyelevvel 1448",
-      "imsak": "04:41",
-      "gunes": "06:04",
-      "ogle": "11:53",
-      "ikindi": "15:00",
-      "aksam": "17:32",
-      "yatsi": "18:50"
-    },
-    {
-      "t": "2026-10-15",
-      "h": "4 Cemaziyelevvel 1448",
-      "imsak": "04:42",
-      "gunes": "06:05",
-      "ogle": "11:53",
-      "ikindi": "14:59",
-      "aksam": "17:31",
-      "yatsi": "18:48"
-    },
-    {
-      "t": "2026-10-16",
-      "h": "5 Cemaziyelevvel 1448",
-      "imsak": "04:43",
-      "gunes": "06:06",
-      "ogle": "11:53",
-      "ikindi": "14:58",
-      "aksam": "17:29",
-      "yatsi": "18:47"
-    },
-    {
-      "t": "2026-10-17",
-      "h": "6 Cemaziyelevvel 1448",
-      "imsak": "04:44",
-      "gunes": "06:07",
-      "ogle": "11:52",
-      "ikindi": "14:57",
-      "aksam": "17:28",
-      "yatsi": "18:46"
-    },
-    {
-      "t": "2026-10-18",
-      "h": "7 Cemaziyelevvel 1448",
-      "imsak": "04:45",
-      "gunes": "06:08",
-      "ogle": "11:52",
-      "ikindi": "14:55",
-      "aksam": "17:26",
-      "yatsi": "18:44"
-    },
     {
       "t": "2026-10-19",
       "h": "8 Cemaziyelevvel 1448",
@@ -313,6 +243,76 @@
       "ikindi": "14:32",
       "aksam": "16:57",
       "yatsi": "18:18"
+    },
+    {
+      "t": "2026-11-12",
+      "h": "3 Cemaziyelahir 1448",
+      "imsak": "05:10",
+      "gunes": "06:36",
+      "ogle": "11:51",
+      "ikindi": "14:32",
+      "aksam": "16:56",
+      "yatsi": "18:17"
+    },
+    {
+      "t": "2026-11-13",
+      "h": "4 Cemaziyelahir 1448",
+      "imsak": "05:11",
+      "gunes": "06:37",
+      "ogle": "11:51",
+      "ikindi": "14:31",
+      "aksam": "16:55",
+      "yatsi": "18:16"
+    },
+    {
+      "t": "2026-11-14",
+      "h": "5 Cemaziyelahir 1448",
+      "imsak": "05:12",
+      "gunes": "06:38",
+      "ogle": "11:51",
+      "ikindi": "14:30",
+      "aksam": "16:54",
+      "yatsi": "18:15"
+    },
+    {
+      "t": "2026-11-15",
+      "h": "6 Cemaziyelahir 1448",
+      "imsak": "05:13",
+      "gunes": "06:39",
+      "ogle": "11:51",
+      "ikindi": "14:30",
+      "aksam": "16:54",
+      "yatsi": "18:15"
+    },
+    {
+      "t": "2026-11-16",
+      "h": "7 Cemaziyelahir 1448",
+      "imsak": "05:14",
+      "gunes": "06:41",
+      "ogle": "11:52",
+      "ikindi": "14:29",
+      "aksam": "16:53",
+      "yatsi": "18:14"
+    },
+    {
+      "t": "2026-11-17",
+      "h": "8 Cemaziyelahir 1448",
+      "imsak": "05:15",
+      "gunes": "06:42",
+      "ogle": "11:52",
+      "ikindi": "14:29",
+      "aksam": "16:52",
+      "yatsi": "18:14"
+    },
+    {
+      "t": "2026-11-18",
+      "h": "9 Cemaziyelahir 1448",
+      "imsak": "05:16",
+      "gunes": "06:43",
+      "ogle": "11:52",
+      "ikindi": "14:28",
+      "aksam": "16:51",
+      "yatsi": "18:13"
     }
   ]
 }
